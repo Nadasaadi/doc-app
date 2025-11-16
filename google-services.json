@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912868870815",
+    "project_id": "docapp-feb7e",
+    "storage_bucket": "docapp-feb7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912868870815:android:9a464b732f3d936746b0aa",
+        "android_client_info": {
+          "package_name": "com.votreentreprise.app111"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOncW8e9Tw3X1dwjXjieOFWj0MvenBWcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
